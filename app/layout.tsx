@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   },
 
   icons: {
-    icon: [{ url: "https://flashback1300.com/images/LOGO.png" }],
+    icon: [{ url: "https://flashback1300.com/icon.ico" }],
   },
   openGraph: {
     title: `${SITE.name} | زجاج سكريت وكاميرات مراقبة وألمنيوم`,
